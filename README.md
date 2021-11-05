@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple Jobs board
 
-Things you may want to cover:
+To do:
 
-* Ruby version
+* Add admin
 
-* System dependencies
+* Add users(?)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Add contacts form for suggestions
